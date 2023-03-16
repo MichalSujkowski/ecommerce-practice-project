@@ -1,5 +1,4 @@
-export default [
-    {
+export default {
         name: 'product',
         title: 'Product',
         type: 'document',
@@ -38,5 +37,4 @@ export default [
                 type: 'string',
             },
         ],
-    },
-]
+    }
